@@ -1,6 +1,3 @@
-import msoffcrypto
-import openpyxl
-import os
 from Scripts.brutescript import bruteRetardedPw, bruteUppercase
 
 
